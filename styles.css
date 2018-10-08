@@ -1,0 +1,17 @@
+
+.comments  {
+  justify-content: space-between;
+
+}
+
+.cajitas {
+   margin: 10px;
+ }
+
+ .tarjeta {
+   margin: 10px;
+ }
+
+ .tarjeta h3 {
+   font-size: 10;
+ }
